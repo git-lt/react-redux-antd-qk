@@ -10,6 +10,11 @@
 - 将store层主要分为中间件、业务模块，每个业务模块中包含initState、reducer、action三个模块，在store下将这三种模块合并到一起，方便管理分层。
 - 使用 异步请求中间件 `promiseMiddleware` 将请求状态分的更细 `['LOADING', 'SUCCESS', 'ERROR']`,根据状态可以做相应的state的更新。
 
+
+## 预览
+
+![](http://7xi480.com1.z0.glb.clouddn.com/react_redux_antd_admin.jpg)
+
 ## Features
 
 - [React](https://facebook.github.io/react/)
