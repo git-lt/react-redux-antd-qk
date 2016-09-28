@@ -13,7 +13,7 @@
 
 ## 预览
 
-![](http://7xi480.com1.z0.glb.clouddn.com/react_redux_antd_admin.jpg)
+![](http://7xi480.com1.z0.glb.clouddn.com/react_redux_antd_admin.jpg?imageView2/1/q/40)
 
 ## Features
 
