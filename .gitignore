@@ -1,0 +1,18 @@
+node_modules
+coverage.html
+.monitor
+
+# Ignore Mac OS desktop services store
+.DS_Store
+
+# Ignore Windows desktop setting file
+desktop.ini
+
+db/*
+
+logs/
+.idea
+
+coverage
+
+npm-debug.log
