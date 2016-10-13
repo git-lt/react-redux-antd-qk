@@ -10,7 +10,7 @@ import Footer from '../../components/Footer'
 import Actions from '../../store/actions'
 
 import 'antd/dist/antd.less'
-import './index.less'
+import './index.less';
 
 @connect(
   state => ({...state}),

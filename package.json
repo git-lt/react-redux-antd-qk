@@ -10,7 +10,7 @@
   "author": "LT",
   "license": "MIT",
   "dependencies": {
-    "antd": "^0.12.4",
+    "antd": "^2.0.0",
     "body-parser": "^1.15.0",
     "chart.js": "^1.0.2",
     "express": "^4.13.4",

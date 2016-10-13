@@ -8,7 +8,7 @@ import './index.less'
 
 @connect(
   state => ({...state}),
-  dispatch =>  bindActionCreators( Actions, dispatch )
+  dispatch => bindActionCreators( Actions, dispatch )
 )
 
 class NavPath extends React.Component {
